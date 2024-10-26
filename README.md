@@ -1,4 +1,4 @@
-![Profile-gif-smaller](https://github.com/user-attachments/assets/c88f1757-48a0-41db-985b-98a1dee1a6fa)
+<img src="https://github.com/user-attachments/assets/c88f1757-48a0-41db-985b-98a1dee1a6fa" alt="Profile-gif" style="width: 100%; height: auto;">
 
 # 💫 About Me:
 Trying to exit VIM
