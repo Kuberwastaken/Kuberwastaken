@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Trying to exit VIM
+Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual degree in Computer Science and Artificial Intelligence & Data Science. I enjoy developing games and recently ventured into the world of Data Analytics. I'm constantly learning and exploring new technologies, and I'm excited to share my projects and collaborate with others :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kuberwastaken) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Kuber_mehta) 
