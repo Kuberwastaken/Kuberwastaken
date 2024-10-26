@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/c88f1757-48a0-41db-985b-98a1dee1a6fa" alt="Profile-gif" style="width: 100%; height: auto;">
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/c88f1757-48a0-41db-985b-98a1dee1a6fa" alt="Profile-gif" width="100%">
+</div>
 
 # 💫 About Me:
 Trying to exit VIM
