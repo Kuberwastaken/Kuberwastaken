@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/c88f1757-48a0-41db-985b-98a1dee1a6fa" alt="Profile-gif" width="100%">
-</div>
+<video src="https://i.imgur.com/dgojPMF.mp4" width="100%" autoplay loop muted></video>
 
 # 💫 About Me:
 Trying to exit VIM
