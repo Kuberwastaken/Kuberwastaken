@@ -1,6 +1,7 @@
+![Profile-gif-smaller](https://github.com/user-attachments/assets/c88f1757-48a0-41db-985b-98a1dee1a6fa)
+
 # 💫 About Me:
 Trying to exit VIM
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kuberwastaken) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Kuber_mehta) 
