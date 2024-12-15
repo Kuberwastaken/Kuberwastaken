@@ -16,4 +16,6 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 ---
 [![](https://visitcount.itsvg.in/api?id=Kuberwastaken&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Amogus>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs?si=00b5a615ba66442d)
+
+<!-- Hello random stranger>
