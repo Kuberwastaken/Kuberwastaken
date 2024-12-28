@@ -16,7 +16,4 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 ---
 [![](https://visitcount.itsvg.in/api?id=Kuberwastaken&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-git-main-kuber-mehtas-projects.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
-
 <!-- Hello random stranger>
