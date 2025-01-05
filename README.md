@@ -4,16 +4,21 @@
 
 
 # 💫 About Me:
-Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual degree in Computer Science and Artificial Intelligence & Data Science. I enjoy developing games and recently ventured into the world of Data Analytics. I'm constantly learning and exploring new technologies, and I'm excited to share my projects and collaborate with others :)
+Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual degree in Computer Science and Artificial Intelligence & Data Science. I enjoy developing fun projects and recently ventured into the world of Data Analytics. I'm constantly learning and exploring new technologies, and I'm excited to share my projects and collaborate with others :)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 💻 Tech Stack:  
+![BigQuery](https://img.shields.io/badge/bigquery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kuberwastaken&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kuberwastaken&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuberwastaken&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![kuberwastaken's Stats](https://github-readme-stats.vercel.app/api?username=kuberwastaken&theme=radical&show_icons=true&hide_border=true&count_private=true)<br/>
+![kuberwastaken's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuberwastaken&theme=radical&hide_border=true)
+
+# 🕴🏽Find Me On:
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kubermehta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kubermehta/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/kuberwastaken)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kuberwastaken&icon=0&color=0)](https://visitcount.itsvg.in)
+
+If you want to know how I got my name in the commit history below, check out [Github-Art](https://github.com/Kuberwastaken/Github-Art) :P
 
 <!-- Hello random stranger>
