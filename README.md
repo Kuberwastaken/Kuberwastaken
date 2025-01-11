@@ -10,8 +10,11 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 ![BigQuery](https://img.shields.io/badge/bigquery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 # 📊 GitHub Stats:
-![kuberwastaken's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuberwastaken&theme=radical&hide_border=true)<br/>
-![kuberwastaken's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuberwastaken&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuberwastaken&theme=radical&hide_border=true" alt="kuberwastaken's Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuberwastaken&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="kuberwastaken's Top Languages" height="150"/>
+</p>
 
 # 🕴🏽Find Me On:
 
@@ -24,4 +27,4 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 
 If you want to know how I got my name in the commit history below, check out [Github-Art](https://github.com/Kuberwastaken/Github-Art) :P
 
-<!-- Hello random stranger>
+<!-- Hello random stranger :P>
