@@ -7,18 +7,37 @@
 Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual degree in Computer Science and Artificial Intelligence & Data Science. I enjoy developing fun projects and recently ventured into the world of Data Analytics. I'm constantly learning and exploring new technologies, and I'm excited to share my projects and collaborate with others :)
 
 # 💻 Tech Stack:  
-![BigQuery](https://img.shields.io/badge/bigquery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradio](https://img.shields.io/badge/gradio-%23ff7043.svg?style=for-the-badge&logo=gradio&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
-# 🕴🏽Find Me On:
+<div align="center">
+
+![BigQuery](https://img.shields.io/badge/bigquery-black?style=for-the-badge&labelColor=black&color=black&logo=google-cloud&logoColor=white) 
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&labelColor=black&color=black&logo=c&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&labelColor=black&color=black&logo=css3&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&labelColor=black&color=black&logo=flask&logoColor=white) 
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&labelColor=black&color=black&logo=git&logoColor=white) 
+![Gradio](https://img.shields.io/badge/gradio-black?style=for-the-badge&labelColor=black&color=black&logo=gradio&logoColor=white) 
+![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&labelColor=black&color=black&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&labelColor=black&color=black&logo=javascript&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-black?style=for-the-badge&labelColor=black&color=black&logo=latex&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&labelColor=black&color=black&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&labelColor=black&color=black&logo=python&logoColor=white) 
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&labelColor=black&color=black&logo=react&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&labelColor=black&color=black&logo=mysql&logoColor=white) 
+![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&labelColor=black&color=black&logo=tableau&logoColor=white)  
+
+</div>
+
+# 🕴🏽 Find Me On:
 
 <div align="center">
     
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kubermehta) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kubermehta/) 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/kuberwastaken)
-[![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co/Kuberwastaken)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&labelColor=black&color=black&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kubermehta) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&labelColor=black&color=black&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kubermehta/) 
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&labelColor=black&color=black&logo=X&logoColor=white)](https://twitter.com/kuberwastaken)
+[![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge&labelColor=black&color=black&logo=HuggingFace&logoColor=white)](https://huggingface.co/Kuberwastaken)
 
-<div align="center">
+</div>
+
 
 ---
 
