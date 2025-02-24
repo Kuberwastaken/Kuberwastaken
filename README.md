@@ -33,7 +33,7 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
     
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&labelColor=black&color=black&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kubermehta) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&labelColor=black&color=black&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kubermehta/) 
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&labelColor=black&color=black&logo=X&logoColor=white)](https://twitter.com/kuberwastaken)
+[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&labelColor=black&color=black&logo=X&logoColor=white)](https://twitter.com/kuberwastaken)
 [![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge&labelColor=black&color=black&logo=HuggingFace&logoColor=white)](https://huggingface.co/Kuberwastaken)
 
 </div>
