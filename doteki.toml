@@ -1,0 +1,7 @@
+[sections.blog]
+plugin = "feed"
+url = "https://kuberwastaken.github.io/blog/index.xml"  # Replace with your feed.
+
+[sections.last_updated]
+plugin = "current_date"
+inline = true

@@ -38,6 +38,12 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 
 </div>
 
+---
+
+# ᨒ Latest MindDumps
+
+<!-- blog start -->
+<!-- blog end -->
 
 ---
 
