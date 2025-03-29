@@ -43,6 +43,11 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 # ᨒ Latest MindDumps
 
 <!-- blog start -->
+- [MindDump](https://kuberwastaken.github.io/blog/)
+- [Turn this into Ghibli - How OpenAI commited the largest identity theft in the entire history of art](https://kuberwastaken.github.io/blog/AI/Turn-this-into-Ghibli---How-OpenAI-commited-the-largest-identity-theft-in-the-entire-history-of-art)
+- [Why I Switched to the Nothing Phone 3a Pro and Can’t Stop Talking About It](https://kuberwastaken.github.io/blog/Technology/Untitled)
+- [OpenAI vs DeepSeek - The Battle for AI Dominance and the Meaning of "Open"](https://kuberwastaken.github.io/blog/AI/OpenAI-vs-DeepSeek---The-Battle-for-AI-Dominance-and-the-Meaning-of-Open)
+- [The AI Models Race to The Bottom in 2025](https://kuberwastaken.github.io/blog/AI/The-AI-Models-Race-to-The-Bottom-in-2025)
 <!-- blog end -->
 
 ---
@@ -50,3 +55,5 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 If you want to know how I got my name in the commit history below, check out [Github-Art](https://github.com/Kuberwastaken/Github-Art) :P
 
 <!-- Hello random stranger :P>
+
+<a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
