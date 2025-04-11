@@ -43,11 +43,11 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 # ᨒ Latest MindDumps
 
 <!-- blog start -->
-- [The Big Tech Data Dilemma - When Your Life Becomes AI Training Material](https://kuberwastaken.github.io/blog/AI/The-Big-Tech-Data-Dilemma---When-Your-Life-Becomes-AI-Training-Material)
 - [MindDump](https://kuberwastaken.github.io/blog/)
+- [I Got Early Access to Manus AI - Let's Talk About it!](https://kuberwastaken.github.io/blog/AI/I-Got-Early-Access-to-Manus-AI---Let's-Talk-About-it)
+- [The Big Tech Data Dilemma - When Your Life Becomes AI Training Material](https://kuberwastaken.github.io/blog/AI/The-Big-Tech-Data-Dilemma---When-Your-Life-Becomes-AI-Training-Material)
 - [Turn this into Ghibli - How OpenAI commited the largest identity theft in the entire history of art](https://kuberwastaken.github.io/blog/AI/Turn-this-into-Ghibli---How-OpenAI-commited-the-largest-identity-theft-in-the-entire-history-of-art)
 - [Why I Switched to the Nothing Phone 3a Pro and Can’t Stop Talking About It](https://kuberwastaken.github.io/blog/Technology/Untitled)
-- [OpenAI vs DeepSeek - The Battle for AI Dominance and the Meaning of "Open"](https://kuberwastaken.github.io/blog/AI/OpenAI-vs-DeepSeek---The-Battle-for-AI-Dominance-and-the-Meaning-of-Open)
 <!-- blog end -->
 
 ---
