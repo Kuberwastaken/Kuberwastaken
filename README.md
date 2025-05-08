@@ -43,11 +43,11 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 # ᨒ Latest MindDumps
 
 <!-- blog start -->
-- [MindDump](https://kuberwastaken.github.io/blog/)
-- [OpenAI CEO Draws Line Between 'Regular Cute' and 'Gay Cute' for AI Models](https://kuberwastaken.github.io/blog/AI/OpenAI-CEO-Draws-Line-Between-'Regular-Cute'-and-'Gay-Cute'-for-AI-Models)
-- [I Got Early Access to Manus AI - Let's Talk About it!](https://kuberwastaken.github.io/blog/AI/I-Got-Early-Access-to-Manus-AI---Let's-Talk-About-it)
-- [The Big Tech Data Dilemma - When Your Life Becomes AI Training Material](https://kuberwastaken.github.io/blog/AI/The-Big-Tech-Data-Dilemma---When-Your-Life-Becomes-AI-Training-Material)
-- [Turn this into Ghibli - How OpenAI commited the largest identity theft in the entire history of art](https://kuberwastaken.github.io/blog/AI/Turn-this-into-Ghibli---How-OpenAI-commited-the-largest-identity-theft-in-the-entire-history-of-art)
+- [MindDump](https://kuber.studio/blog/)
+- [OpenAI CEO Draws Line Between 'Regular Cute' and 'Gay Cute' for AI Models](https://kuber.studio/blog/AI/OpenAI-CEO-Draws-Line-Between-'Regular-Cute'-and-'Gay-Cute'-for-AI-Models)
+- [I Got Early Access to Manus AI - Let's Talk About it!](https://kuber.studio/blog/AI/I-Got-Early-Access-to-Manus-AI---Let's-Talk-About-it)
+- [The Big Tech Data Dilemma - When Your Life Becomes AI Training Material](https://kuber.studio/blog/AI/The-Big-Tech-Data-Dilemma---When-Your-Life-Becomes-AI-Training-Material)
+- [Turn this into Ghibli - How OpenAI commited the largest identity theft in the entire history of art](https://kuber.studio/blog/AI/Turn-this-into-Ghibli---How-OpenAI-commited-the-largest-identity-theft-in-the-entire-history-of-art)
 <!-- blog end -->
 
 ---
