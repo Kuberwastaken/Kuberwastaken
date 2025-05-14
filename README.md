@@ -8,6 +8,8 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 
 # 💻 Tech Stack:  
 
+Here's the updated badge list with TypeScript added, maintaining the black theme:
+
 <div align="center">
 
 ![BigQuery](https://img.shields.io/badge/bigquery-black?style=for-the-badge&labelColor=black&color=black&logo=google-cloud&logoColor=white) 
@@ -23,17 +25,18 @@ Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&labelColor=black&color=black&logo=python&logoColor=white) 
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&labelColor=black&color=black&logo=react&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&labelColor=black&color=black&logo=mysql&logoColor=white) 
-![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&labelColor=black&color=black&logo=tableau&logoColor=white)  
+![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&labelColor=black&color=black&logo=tableau&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&labelColor=black&color=black&logo=typescript&logoColor=white) 
 
 </div>
 
 # 🕴🏽 Find Me On:
 
 <div align="center">
-    
-[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&labelColor=black&color=black&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kubermehta) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&labelColor=black&color=black&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kubermehta/) 
+
 [![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&labelColor=black&color=black&logo=X&logoColor=white)](https://twitter.com/kuberwastaken)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&labelColor=black&color=black&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kubermehta/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&labelColor=black&color=black&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kubermehta) 
 [![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge&labelColor=black&color=black&logo=HuggingFace&logoColor=white)](https://huggingface.co/Kuberwastaken)
 
 </div>
