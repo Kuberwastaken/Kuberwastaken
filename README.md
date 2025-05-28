@@ -47,10 +47,10 @@ Here's the updated badge list with TypeScript added, maintaining the black theme
 
 <!-- blog start -->
 - [MindDump](https://kuber.studio/blog/)
+- [AsianMOM: A WebGPU-Powered AI That Roasts You Like an Asian Mother](https://kuber.studio/blog/Projects/AsianMOM---A-WebGPU-Powered-AI-That-Roasts-You-Like-an-Asian-Mother)
 - [OpenAI CEO Draws Line Between 'Regular Cute' and 'Gay Cute' for AI Models](https://kuber.studio/blog/AI/OpenAI-CEO-Draws-Line-Between-'Regular-Cute'-and-'Gay-Cute'-for-AI-Models)
 - [I Got Early Access to Manus AI - Let's Talk About it!](https://kuber.studio/blog/AI/I-Got-Early-Access-to-Manus-AI---Let's-Talk-About-it)
 - [The Big Tech Data Dilemma - When Your Life Becomes AI Training Material](https://kuber.studio/blog/AI/The-Big-Tech-Data-Dilemma---When-Your-Life-Becomes-AI-Training-Material)
-- [Turn this into Ghibli - How OpenAI commited the largest identity theft in the entire history of art](https://kuber.studio/blog/AI/Turn-this-into-Ghibli---How-OpenAI-commited-the-largest-identity-theft-in-the-entire-history-of-art)
 <!-- blog end -->
 
 ---
