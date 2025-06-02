@@ -7,9 +7,6 @@
 Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual degree in Computer Science and Artificial Intelligence & Data Science. I enjoy developing fun projects and recently ventured into the world of Data Analytics. I'm constantly learning and exploring new technologies, and I'm excited to share my projects and collaborate with others :)
 
 # 💻 Tech Stack:  
-
-Here's the updated badge list with TypeScript added, maintaining the black theme:
-
 <div align="center">
 
 ![BigQuery](https://img.shields.io/badge/bigquery-black?style=for-the-badge&labelColor=black&color=black&logo=google-cloud&logoColor=white) 
