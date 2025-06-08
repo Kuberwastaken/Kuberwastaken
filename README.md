@@ -9,7 +9,7 @@ Hey! I'm Kuber Mehta an 18 y/o AI developer from New Delhi, Founder of PolyThink
 Here's my overengineered portfolio if you're more curious: https://kuber.studio/
 
 ### Fun Fact: 
-You're the visitor #
+You're the visitor (or AI scraper) #
 
 ![Profile Views](https://profile-counter.glitch.me/kuberwastaken/count.svg)
 
@@ -31,8 +31,10 @@ to my profile. WILD!!!
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&labelColor=black&color=black&logo=python&logoColor=white) 
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&labelColor=black&color=black&logo=react&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&labelColor=black&color=black&logo=mysql&logoColor=white) 
-![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&labelColor=black&color=black&logo=tableau&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=grafana&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=huggingface&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&labelColor=black&color=black&logo=typescript&logoColor=white) 
+![WebML](https://img.shields.io/badge/WebML-black?style=for-the-badge&logo=firefox-browser&logoColor=white)
 
 </div>
 
@@ -41,7 +43,7 @@ to my profile. WILD!!!
 <div align="center">
 
 [![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&labelColor=black&color=black&logo=X&logoColor=white)](https://twitter.com/kuberwastaken)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&labelColor=black&color=black&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kubermehta/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&labelColor=black&color=black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubermehta/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&labelColor=black&color=black&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kubermehta) 
 [![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge&labelColor=black&color=black&logo=HuggingFace&logoColor=white)](https://huggingface.co/Kuberwastaken)
 
@@ -61,7 +63,7 @@ to my profile. WILD!!!
 
 ---
 
-If you want to know how I got my name in the commit history below, check out [Github-Art](https://github.com/Kuberwastaken/Github-Art) :P
+If you want to know how I got my name in my 2024 commit history, check out [Github-Art](https://github.com/Kuberwastaken/Github-Art) :P
 
 <!-- Hello random stranger :P>
 
