@@ -4,7 +4,16 @@
 
 
 # 💫 About Me:
-Hi, I'm Kuber Mehta, a passionate student from New Delhi, India, pursuing a dual degree in Computer Science and Artificial Intelligence & Data Science. I enjoy developing fun projects and recently ventured into the world of Data Analytics. I'm constantly learning and exploring new technologies, and I'm excited to share my projects and collaborate with others :)
+Hey! I'm Kuber Mehta an 18 y/o AI developer from New Delhi, Founder of PolyThink & TREAT AI. Currently a Perplexity AI Fellow + soon first year dual CS/AI undergrad at BITS Pilani & GGSIPU. I design agentic LLM pipelines, post-train models, and play around with resource constrained projects like The Backdooms. I've built and shipped 30+ AI projects in the past 9 months and I honestly cannot get enough. Follow along to stay in the loop :)
+
+Here's my overengineered portfolio if you're more curious: https://kuber.studio/
+
+### Fun Fact: 
+You're the visitor #
+
+![Profile Views](https://profile-counter.glitch.me/kuberwastaken/count.svg)
+
+to my profile. WILD!!!
 
 # 💻 Tech Stack:  
 <div align="center">
