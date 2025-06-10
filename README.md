@@ -63,7 +63,7 @@ to my profile. WILD!!!
 
 ---
 
-If you want to know how I got my name in my 2024 commit history, check out [Github-Art](https://github.com/Kuberwastaken/Github-Art) :P
+If you want to know how I got my name in my 2024 commit history, check out [Github-Art](https://github.com/Kuberwastaken/Github-Art) :p
 
 <!-- Hello random stranger :P>
 
