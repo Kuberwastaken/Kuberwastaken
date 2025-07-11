@@ -11,7 +11,7 @@ Here's my overengineered portfolio if you're more curious: https://kuber.studio/
 ### Fun Fact: 
 You're the visitor (or AI scraper) #
 
-![Profile Views](https://profile-counter.glitch.me/kuberwastaken/count.svg)
+![Profile views](https://profilecounter.kuber.studio/kuberwastaken/hacker/count.svg)
 
 to my profile. WILD!!!
 
