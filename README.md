@@ -57,10 +57,10 @@ to my profile. WILD!!!
 
 <!-- blog start -->
 - [MindDump](https://kuber.studio/blog/)
+- [Character Conversions with AI - Wan 2.2 Animate](https://kuber.studio/blog/Tutorials/Character-Conversions-with-AI---Wan-2.2-Animate)
 - [How I Spent Three Nights Solving Listen Labs Berghain Challenge](https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge)
 - [AsianMOM: A WebGPU-Powered AI That Roasts You Like an Asian Mother](https://kuber.studio/blog/Projects/AsianMOM---A-WebGPU-Powered-AI-That-Roasts-You-Like-an-Asian-Mother)
 - [OpenAI CEO Draws Line Between 'Regular Cute' and 'Gay Cute' for AI Models](https://kuber.studio/blog/AI/OpenAI-CEO-Draws-Line-Between-'Regular-Cute'-and-'Gay-Cute'-for-AI-Models)
-- [I Got Early Access to Manus AI - Let's Talk About it!](https://kuber.studio/blog/AI/I-Got-Early-Access-to-Manus-AI---Let's-Talk-About-it)
 <!-- blog end -->
 
 ---
