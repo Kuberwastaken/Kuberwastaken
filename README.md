@@ -6,7 +6,9 @@
 # About Me:
 Hey! I'm Kuber Mehta an 18 y/o AI developer from New Delhi, India 
 
-Founder of [PolyThink](https://www.polyth.ink/) & [TREAT AI](https://www.trytreat.tech/). Soon CS/AI undergrad at BITS Pilani & GGSIPU. I've built and shipped 40+ projects (28+ AI Based) in the past year.
+Founder of [PolyThink](https://www.polyth.ink/) & [TREAT AI](https://www.trytreat.tech/). Soon CS/AI undergrad at BITS Pilani & GGSIPU. 
+
+I've [built and shipped 40+ projects](https://kuber.studio/#/projects) (28+ AI Based) in the past year.
 
 I design agentic LLM pipelines, post-train models, optimise local RAG systems and play around with resource constrained projects like [The Backdooms](https://github.com/kuberwastaken/backdooms) and [MiniLMs](https://minilms.kuber.studio/).
 
