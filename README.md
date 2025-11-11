@@ -44,10 +44,10 @@ to my profile. WILD!!!
 
 <!-- blog start -->
 - [MindDump](https://kuber.studio/blog/)
+- [I Read Sam Bhagwat's AI Agents Bible So You Don't Have To (But Probably Should)](https://kuber.studio/blog/Post-Extended/I-Read-Sam-Bhagwat's-AI-Agents-Bible-So-You-Don't-Have-To)
 - [How People use ChatGPT and Why You Should Care](https://kuber.studio/blog/AI/How-People-use-ChatGPT-and-Why-You-Should-Care)
 - [Character Conversions with AI - Wan 2.2 Animate](https://kuber.studio/blog/Tutorials/Character-Conversions-with-AI---Wan-2.2-Animate)
 - [How I Spent Three Nights Solving Listen Labs Berghain Challenge](https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge)
-- [AsianMOM: A WebGPU-Powered AI That Roasts You Like an Asian Mother](https://kuber.studio/blog/Projects/AsianMOM---A-WebGPU-Powered-AI-That-Roasts-You-Like-an-Asian-Mother)
 <!-- blog end -->
 
 ---
