@@ -4,9 +4,9 @@
 
 
 # About Me:
-Hey! I'm Kuber Mehta an AI developer & Tech Enthusiast from New Delhi, India 
+Hey! I'm Kuber - an AI developer & Tech Enthusiast from New Delhi, India 
 
-Founder of [PolyThink](https://www.polyth.ink/) & [TREAT AI](https://www.trytreat.tech/). CS/AI undergrad at BITS Pilani & GGSIPU. 
+Founder of [PolyThink](https://www.polyth.ink/) and CS/AI undergrad at BITS Pilani & GGSIPU.
 
 I've [built and shipped 53+ projects](https://kuber.studio/#/projects) (38+ AI Based) in the past year.
 
