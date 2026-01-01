@@ -43,11 +43,11 @@ to my profile. WILD!!!
 # ᨒ Latest Blogs
 
 <!-- blog start -->
+- [Prompting People](https://kuber.studio/blog/Reflections/Prompting-People)
 - [MindDump](https://kuber.studio/blog/)
 - [How to Statistically Never Lose in Wordle Again](https://kuber.studio/blog/Post-Extended/How-to-Statistically-Never-Lose-in-Wordle-Again)
 - [I Read Sam Bhagwat's AI Agents Bible So You Don't Have To (But Probably Should)](https://kuber.studio/blog/Post-Extended/I-Read-Sam-Bhagwat's-AI-Agents-Bible-So-You-Don't-Have-To)
 - [How People use ChatGPT and Why You Should Care](https://kuber.studio/blog/AI/How-People-use-ChatGPT-and-Why-You-Should-Care)
-- [Character Conversions with AI - Wan 2.2 Animate](https://kuber.studio/blog/Tutorials/Character-Conversions-with-AI---Wan-2.2-Animate)
 <!-- blog end -->
 
 ---
