@@ -1,7 +1,6 @@
-<div style="text-align: center;">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile-gif" width="100%">
-</div>
+[![DOOM](https://raw.githubusercontent.com/Kuberwastaken/DoomMe/main/static/start-visual.gif)](https://github.com/Kuberwastaken/DoomMe/blob/main/menu/episode_1.md)
 
+##### DoomMe - Click to Play DOOM in my GitHub README
 
 # About Me:
 Hey! I'm Kuber - an AI developer & Tech Enthusiast from New Delhi, India 
