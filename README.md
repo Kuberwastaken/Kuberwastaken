@@ -43,10 +43,10 @@ to my profile. WILD!!!
 
 <!-- blog start -->
 - [MindDump](https://kuber.studio/blog/)
+- [The Bubble is Not What You Think](https://kuber.studio/blog/Reflections/The-Bubble-is-Not-What-You-Think)
 - [How I Made DOOM Run Inside a GitHub Readme](https://kuber.studio/blog/Projects/How-I-Made-DOOM-Run-Inside-a-GitHub-Readme)
 - [Prompting People](https://kuber.studio/blog/Reflections/Prompting-People)
 - [How to Statistically Never Lose in Wordle Again](https://kuber.studio/blog/Post-Extended/How-to-Statistically-Never-Lose-in-Wordle-Again)
-- [I Read Sam Bhagwat's AI Agents Bible So You Don't Have To (But Probably Should)](https://kuber.studio/blog/Post-Extended/I-Read-Sam-Bhagwat's-AI-Agents-Bible-So-You-Don't-Have-To)
 <!-- blog end -->
 
 ---
