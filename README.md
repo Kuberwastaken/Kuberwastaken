@@ -3,19 +3,22 @@
 ##### DoomMe - Click to Play DOOM in my GitHub README
 
 # About Me:
-Hey! I'm Kuber - an AI developer & Tech Enthusiast from New Delhi, India 
+Hey! I'm Kuber - an AI developer & Tech Enthusiast from New Delhi, India, currently a CS/AI undergrad at BITS Pilani & GGSIPU.
 
-Founder of [PolyThink](https://www.polyth.ink/) and CS/AI undergrad at BITS Pilani & GGSIPU.
+I'm very ADHD-pilled in my projects and have a lot of fun ideas (I call them SideQuests and find it the best way to express my creativity & learn!)
+So I've [built and shipped 53+ projects](https://kuber.studio/#/projects) in the past year.
 
-I've [built and shipped 53+ projects](https://kuber.studio/#/projects) (38+ AI Based) in the past year.
+I love nerding out about AI, SLMs(Small Language Models), Social Media Algorithms, Retro gaming and Resource Constrained projects like [The Backdooms](https://github.com/kuberwastaken/backdooms) and [MiniLMs](https://minilms.kuber.studio/).
 
-I design agentic LLM pipelines, post-train models, optimise local RAG systems and play around with resource constrained projects like [The Backdooms](https://github.com/kuberwastaken/backdooms) and [MiniLMs](https://minilms.kuber.studio/).
+### Currently working on:
 
-Currently working on Democratising private, local SLMs as your External Brain @ [SecondYou](https://secondyou.app/)
+- Democratising (/experimenting/fafo'ing with) private, local SLMs as your External Brain @ [SecondYou](https://secondyou.app/).
+- Building a framework for generative UI for LLMs @ [PolyThink](https://polyth.ink).
+- Managing Growth & Content for [Ryan Trahan](https://www.youtube.com/@ryan)'s [Gaming Account](https://www.instagram.com/ryanthreethousand/)
 
-Prev: Business Fellow @ Perplexity, AI Resident @ Nas Daily (Dubai) & Cracked Outliers (Dharamshala), AI Agents Websocket Framework LEAD Intern @ HTMX 
+Prev: [Business Fellow @ Perplexity](https://www.perplexity.ai/business-fellowship), [AI Summer Resident @ Nas Daily](https://www.instagram.com/reels/DMLLKzMSuEK) (Dubai) & Cracked Outliers (Dharamshala), AI Agents Websocket Framework LEAD Intern @ HTMX (iykyk)
 
-Follow along to stay in the loop :)
+### Follow along to stay in the loop :)
 
 [Here's my overengineered portfolio if you're more curious](https://kuber.studio/)
 
@@ -26,7 +29,7 @@ You're the visitor (or AI scraper) #
 
 to my profile. WILD!!!
 
-[(I made this counter btw, click here if you want one for your profile)](https://counter.kuber.studio/)
+[(I made this counter btw, click here if you want one for your profile!)](https://counter.kuber.studio/)
 
 </div>
 
@@ -35,7 +38,7 @@ to my profile. WILD!!!
 <a href="https://www.linkedin.com/in/kubermehta/" style="color: #00ff00;">LinkedIn</a> | 
 <a href="https://www.kaggle.com/kubermehta" style="color: #00ff00;">Kaggle</a> | 
 <a href="https://huggingface.co/Kuberwastaken" style="color: #00ff00;">Hugging Face</a> | 
-<a href="https://twitter.com/kuberwastaken" style="color: #00ff00;">Twitter (I refuse to call it X)</a>
+<a href="https://twitter.com/kuberwastaken" style="color: #00ff00;">Twitter</a>
 
 ---
 
