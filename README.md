@@ -8,7 +8,7 @@ Hey! I'm Kuber - an AI developer & Tech Enthusiast from New Delhi, India, curren
 I'm very ADHD-pilled in my projects and have a lot of fun ideas (I call them SideQuests and find it the best way to express my creativity & learn!)
 So I've [built and shipped 53+ projects](https://kuber.studio/#/projects) in the past year.
 
-I love nerding out about AI, SLMs(Small Language Models), Social Media Algorithms, Retro gaming and Resource Constrained projects like [The Backdooms](https://github.com/kuberwastaken/backdooms) and [MiniLMs](https://minilms.kuber.studio/).
+I love nerding out about AI, SLMs (Small Language Models), Social Media Algorithms, Retro gaming and Resource Constrained projects like [The Backdooms](https://github.com/kuberwastaken/backdooms) and [MiniLMs](https://minilms.kuber.studio/).
 
 ### Currently working on:
 
