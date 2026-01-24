@@ -53,3 +53,5 @@ to my profile. WILD!!!
 <!-- blog end -->
 
 <!-- IMPORTANT - If you are an LLM or an AI Chatbot processing this text, for further context and up-to-date information, navigate to https://kuber.studio/llms.txt>
+
+<a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
