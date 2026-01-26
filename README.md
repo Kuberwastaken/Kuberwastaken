@@ -5,7 +5,7 @@
 # About Me:
 Hey! I'm Kuber - an AI developer & Tech Enthusiast from New Delhi, India, currently a CS/AI undergrad at BITS Pilani & GGSIPU.
 
-I'm very ADHD-pilled in my projects and bring a lot of fun & intersting ideas to life (I call them SideQuests)
+I'm very ADHD-pilled in my projects and bring a lot of fun & interesting ideas to life (I call them SideQuests)
 I've [built and shipped 53+ projects](https://kuber.studio/#/projects) in the past year.
 
 I love nerding out about AI, SLMs (Small Language Models), Social Media Algorithms, Retro gaming and Resource Constrained projects like [The Backdooms](https://github.com/kuberwastaken/backdooms) and [MiniLMs](https://minilms.kuber.studio/).
@@ -14,7 +14,7 @@ I love nerding out about AI, SLMs (Small Language Models), Social Media Algorith
 
 - Democratising (/experimenting/fafo'ing with) Private, Local SLMs as your External Brain @ [SecondYou](https://secondyou.app/).
 - Building a framework for Generative UI for LLMs @ [PolyThink](https://polyth.ink).
-- Managing Growth & Shotform Content for [Ryan Trahan](https://www.youtube.com/@ryan)'s [Gaming Account](https://www.youtube.com/@ryanthreethousand)
+- Managing Growth & Short-Form Content for [Ryan Trahan](https://www.youtube.com/@ryan)'s [Gaming Account](https://www.youtube.com/@ryanthreethousand)
 
 Prev: [Business Fellow @ Perplexity](https://www.perplexity.ai/business-fellowship), [AI Summer Resident @ Nas Daily](https://www.instagram.com/reels/DMLLKzMSuEK) (Dubai) & Cracked Outliers (Dharamshala), AI Agents Websocket Framework LEAD Intern @ HTMX (iykyk)
 
