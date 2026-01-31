@@ -14,7 +14,6 @@ I love nerding out about AI, SLMs (Small Language Models), Social Media Algorith
 
 - Democratising (/experimenting/fafo'ing with) Private, Local SLMs as your External Brain @ [SecondYou](https://secondyou.app/).
 - Building a framework for Generative UI for LLMs @ [PolyThink](https://polyth.ink).
-- Managing Growth & Short-Form Content for [Ryan Trahan](https://www.youtube.com/@ryan)'s [Gaming Account](https://www.youtube.com/@ryanthreethousand)
 
 Prev: [Business Fellow @ Perplexity](https://www.perplexity.ai/business-fellowship), [AI Summer Resident @ Nas Daily](https://www.instagram.com/reels/DMLLKzMSuEK) (Dubai) & Cracked Outliers (Dharamshala), AI Agents Websocket Framework LEAD Intern @ HTMX (iykyk)
 
