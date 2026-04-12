@@ -27,6 +27,7 @@ You're the visitor (or AI scraper) #
 ![Profile views](https://counter.kuber.studio/kuberwastaken/hacker/count.svg)
 
 to my profile. WILD!!!
+(Oops, got DDOS'd - counter broken until May until limits reset lol)
 
 [(I made this counter btw, click here if you want one for your profile!)](https://counter.kuber.studio/)
 
