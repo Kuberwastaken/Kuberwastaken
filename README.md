@@ -12,6 +12,7 @@ I love nerding out about AI, SLMs (Small Language Models), Social Media Algorith
 
 ### Currently working on:
 
+- Building the TUI Coding Agent of my Dreams @ [Claurst](https://github.com/Kuberwastaken/claurst).
 - Democratising (/experimenting/fafo'ing with) Private, Local SLMs as your External Brain @ [SecondYou](https://secondyou.app/).
 - Building a framework for Generative UI for LLMs @ [PolyThink](https://polyth.ink).
 
