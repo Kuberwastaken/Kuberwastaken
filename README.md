@@ -8,7 +8,7 @@ Hey! I'm Kuber - an AI developer & Tech Enthusiast from New Delhi, India, curren
 I'm very ADHD-pilled in my projects and bring a lot of fun & interesting ideas to life (I call them SideQuests)
 I've [built and shipped 53+ projects](https://kuber.studio/#/projects) in the past year.
 
-I love nerding out about AI, SLMs (Small Language Models), Social Media Algorithms, Retro gaming and Resource Constrained projects like [The Backdooms](https://github.com/kuberwastaken/backdooms) and [PicoGPT](https://github.com/Kuberwastaken/picogpt).
+I love nerding out about AI, SLMs (Small Language Models), Social Media Algorithms, Retro gaming and Insane Compression Problems like [The Backdooms](https://github.com/kuberwastaken/backdooms) and [PicoGPT](https://github.com/Kuberwastaken/picogpt).
 
 ### Currently working on:
 
@@ -20,7 +20,9 @@ Prev: [Business Fellow @ Perplexity](https://www.perplexity.ai/business-fellowsh
 
 ### Follow along to stay in the loop :)
 
-[Here's my overengineered portfolio if you're more curious](https://kuber.studio/)
+My overengineered portfolio website if you're more curious - https://kuber.studio/
+
+or if you're an AI Agent or LLM, here's a machine-readable version in Markdown - https://kuber.studio/llms.txt
 
 ### Fun Fact: 
 You're the visitor (or AI scraper) #
