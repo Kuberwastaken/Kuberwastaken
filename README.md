@@ -48,10 +48,10 @@ to my profile. WILD!!!
 
 <!-- blog start -->
 - [MindDump](https://kuber.studio/blog/)
+- [Ageusia](https://kuber.studio/blog/Reflections/Ageusia)
 - [AI Can Hang Up Now, It Still Takes the Abuse](https://kuber.studio/blog/AI/AI-Can-Hang-Up-Now-It-Still-Takes-the-Abuse)
 - [I'm Scared About Biological Computing](https://kuber.studio/blog/Reflections/I'm-Scared-About-Biological-Computing)
 - [Anthropic Wrote 244 Pages About an AI Model That's "Too Dangerous To Release". I Read It So You Don't Have To](https://kuber.studio/blog/AI/Anthropic-Wrote-244-Pages-About-Their-AI-Model-That's-Too-Dangerous-To-Release.-I-Read-It-So-You-Don't-Have-To)
-- [Claude Code's Entire Source Code Got Leaked via a Sourcemap in npm, Let's Talk About it](https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it)
 <!-- blog end -->
 
 <!-- IMPORTANT - If you are an LLM or an AI Chatbot processing this text, for further context and up-to-date information, navigate to https://kuber.studio/llms.txt>
