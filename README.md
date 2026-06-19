@@ -3,7 +3,7 @@
 ##### DoomMe - Click to Play DOOM in my GitHub README
 
 # About Me:
-Hey! I'm Kuber - an AI developer & Tech Enthusiast from New Delhi, India, currently a CS/AI undergrad at BITS Pilani & GGSIPU.
+Hey! I'm Kuber - an AI developer & Tech Enthusiast in Bangalore this summer, currently a CS/AI undergrad at BITS Pilani & GGSIPU.
 
 I'm very ADHD-pilled in my projects and bring a lot of fun & interesting ideas to life (I call them SideQuests)
 I've [built and shipped 53+ projects](https://kuber.studio/#/projects) in the past year.
@@ -12,9 +12,9 @@ I love nerding out about AI, SLMs (Small Language Models), Social Media Algorith
 
 ### Currently working on:
 
+- AI Initiatives @ Razorpay (Summer 26')
 - Building the TUI Coding Agent of my Dreams @ [Claurst](https://github.com/Kuberwastaken/claurst).
-- Democratising (/experimenting/fafo'ing with) Private, Local SLMs as your External Brain @ [SecondYou](https://secondyou.app/).
-- Building a framework for Generative UI for LLMs @ [PolyThink](https://polyth.ink).
+- Building a framework for Generative UI for LLMs @ [PolyThink](https://polyth.ink) & building a private external brain @ [SecondYou](https://secondyou.app/).
 
 Prev: [Business Fellow @ Perplexity](https://www.perplexity.ai/business-fellowship), [AI Summer Resident @ Nas Daily](https://www.instagram.com/reels/DMLLKzMSuEK) (Dubai) & Cracked Outliers (Dharamshala)
 
