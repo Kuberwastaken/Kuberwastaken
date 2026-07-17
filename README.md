@@ -8,11 +8,11 @@ Hey! I'm Kuber - an AI developer & Tech Enthusiast in Bangalore this summer, cur
 I'm very ADHD-pilled in my projects and bring a lot of fun & interesting ideas to life (I call them SideQuests)
 I've [built and shipped 53+ projects](https://kuber.studio/#/projects) in the past year.
 
-I love nerding out about AI, SLMs (Small Language Models), Social Media Algorithms, Retro gaming and Insane Compression Problems like [The Backdooms](https://github.com/kuberwastaken/backdooms) and [PicoGPT](https://github.com/Kuberwastaken/picogpt).
+I love nerding out about AI, SLMs (Small Language Models), Social Media Algorithms, Retro gaming and Insane Compression Problems like [The Backdooms](https://github.com/kuberwastaken/backdooms), [MiniCraft](https://github.com/Kuberwastaken/minicraft) and [PicoGPT](https://github.com/Kuberwastaken/picogpt).
 
 ### Currently working on:
 
-- AI Initiatives @ Razorpay (Summer 26')
+- Central AI Initiatives - Founders Office @ [Razorpay](https://razorpay.com/) (Summer 26')
 - Building the TUI Coding Agent of my Dreams @ [Claurst](https://github.com/Kuberwastaken/claurst).
 - Building a framework for Generative UI for LLMs @ [PolyThink](https://polyth.ink) & building a private external brain @ [SecondYou](https://secondyou.app/).
 
