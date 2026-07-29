@@ -13,8 +13,8 @@ I love nerding out about AI, SLMs (Small Language Models), Social Media Algorith
 ### Currently working on:
 
 - Central AI Initiatives - Founders Office @ [Razorpay](https://razorpay.com/) (Summer 26')
-- Building the TUI Coding Agent of my Dreams @ [Claurst](https://github.com/Kuberwastaken/claurst).
-- Building a framework for Generative UI for LLMs @ [PolyThink](https://polyth.ink) & building a private external brain @ [SecondYou](https://secondyou.app/).
+- Building the Agentic TUI Harness of my Dreams @ [Claurst](https://github.com/Kuberwastaken/claurst).
+- Building a framework for Generative UI for LLMs @ [PolyThink](https://polyth.ink).
 
 Prev: [Business Fellow @ Perplexity](https://www.perplexity.ai/business-fellowship), [AI Summer Resident @ Nas Daily](https://www.instagram.com/reels/DMLLKzMSuEK) (Dubai) & Cracked Outliers (Dharamshala)
 
