@@ -48,7 +48,7 @@ to my profile. WILD!!!
 
 <!-- blog start -->
 - [MindDump](https://kuber.studio/blog/)
-- [DeepSeek's Plan for AGI is the Costco Hot Dog](https://kuber.studio/blog/AI/DeepSeek's-Plan-for-AGI-is-the-Costco-Hot-Dog)
+- [DeepSeek's Plan for AGI is the Costco Hot Dog](https://kuber.studio/blog/AI/DeepSeeks-Plan-for-AGI-is-the-Costco-Hot-Dog)
 - [Roblox Released the Biggest AI World Model in Gaming. Everyone Hates It.](https://kuber.studio/blog/AI/Roblox-Released-the-Biggest-AI-World-Model-in-Gaming.-Everyone-Hates-It.)
 - [Ageusia](https://kuber.studio/blog/Reflections/Ageusia)
 - [AI Can Hang Up Now, It Still Takes the Abuse](https://kuber.studio/blog/AI/AI-Can-Hang-Up-Now-It-Still-Takes-the-Abuse)
