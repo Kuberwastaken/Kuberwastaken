@@ -3,7 +3,7 @@
 ##### DoomMe - Click to Play DOOM in my GitHub README
 
 # About Me:
-Hey! I'm Kuber - an AI developer & Tech Enthusiast from Delhi, currently a CS/AI undergrad at BITS Pilani & GGSIPU.
+Hey! I'm Kuber - an AI developer & Tech Enthusiast from New Delhi, currently a CS/AI undergrad at BITS Pilani & GGSIPU.
 
 I'm very ADHD-pilled in my projects and bring a lot of fun & interesting ideas to life (I call them SideQuests)
 I've [built and shipped 53+ projects](https://kuber.studio/#/projects) in the past year.
