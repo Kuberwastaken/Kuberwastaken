@@ -3,7 +3,7 @@
 ##### DoomMe - Click to Play DOOM in my GitHub README
 
 # About Me:
-Hey! I'm Kuber - an AI developer & Tech Enthusiast in Bangalore this summer, currently a CS/AI undergrad at BITS Pilani & GGSIPU.
+Hey! I'm Kuber - an AI developer & Tech Enthusiast from Delhi, currently a CS/AI undergrad at BITS Pilani & GGSIPU.
 
 I'm very ADHD-pilled in my projects and bring a lot of fun & interesting ideas to life (I call them SideQuests)
 I've [built and shipped 53+ projects](https://kuber.studio/#/projects) in the past year.
@@ -12,7 +12,7 @@ I love nerding out about AI, SLMs (Small Language Models), Social Media Algorith
 
 ### Currently working on:
 
-- Central AI Initiatives - Founders Office @ [Razorpay](https://razorpay.com/) (Summer 26')
+- Central AI Initiatives - Founders Office @ [Razorpay](https://razorpay.com/)
 - Building the Agentic TUI Harness of my Dreams @ [Claurst](https://github.com/Kuberwastaken/claurst).
 - Building a framework for Generative UI for LLMs @ [PolyThink](https://polyth.ink).
 
