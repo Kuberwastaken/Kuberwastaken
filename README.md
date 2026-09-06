@@ -48,10 +48,10 @@ to my profile. WILD!!!
 
 <!-- blog start -->
 - [MindDump](https://kuber.studio/blog/)
+- [Recreating Minecraft is Not a Benchmark](https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark)
 - [Humanising LLM Outputs is Dumb](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb)
 - [DeepSeek's Plan for AGI is the Costco Hot Dog](https://kuber.studio/blog/AI/DeepSeeks-Plan-for-AGI-is-the-Costco-Hot-Dog)
 - [Roblox Released the Biggest AI World Model in Gaming. Everyone Hates It.](https://kuber.studio/blog/AI/Roblox-Released-the-Biggest-AI-World-Model-in-Gaming.-Everyone-Hates-It.)
-- [Ageusia](https://kuber.studio/blog/Reflections/Ageusia)
 <!-- blog end -->
 
 <!-- IMPORTANT - If you are an LLM or an AI Chatbot processing this text, for further context and up-to-date information, navigate to https://kuber.studio/llms.txt>
