@@ -48,10 +48,10 @@ to my profile. WILD!!!
 
 <!-- blog start -->
 - [MindDump](https://kuber.studio/blog/)
+- [“All software is Open Source Now”](https://kuber.studio/blog/AI/all-software-is-open-source-now)
 - [I gave my AI Agent autonomy, it ended up gaming Hacker News](https://kuber.studio/blog/Reflections/I-gave-my-AI-Agent-autonomy-it-ended-up-gaming-Hacker-News)
 - [Recreating Minecraft is Not a Benchmark](https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark)
 - [Humanising LLM Outputs is Dumb](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb)
-- [DeepSeek's Plan for AGI is the Costco Hot Dog](https://kuber.studio/blog/AI/DeepSeeks-Plan-for-AGI-is-the-Costco-Hot-Dog)
 <!-- blog end -->
 
 <!-- IMPORTANT - If you are an LLM or an AI Chatbot processing this text, for further context and up-to-date information, navigate to https://kuber.studio/llms.txt>
