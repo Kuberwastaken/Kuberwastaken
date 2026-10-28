@@ -47,11 +47,11 @@ to my profile. WILD!!!
 # ᨒ Latest Blogs
 
 <!-- blog start -->
+- [So you want to become a Root CA?](https://kuber.studio/blog/Technology/So-you-want-to-become-a-Root-CA)
 - [MindDump](https://kuber.studio/blog/)
 - [“All software is Open Source Now”](https://kuber.studio/blog/AI/all-software-is-open-source-now)
 - [I gave my AI Agent autonomy, it ended up gaming Hacker News](https://kuber.studio/blog/Reflections/I-gave-my-AI-Agent-autonomy-it-ended-up-gaming-Hacker-News)
 - [Recreating Minecraft is Not a Benchmark](https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark)
-- [Humanising LLM Outputs is Dumb](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb)
 <!-- blog end -->
 
 <!-- IMPORTANT - If you are an LLM or an AI Chatbot processing this text, for further context and up-to-date information, navigate to https://kuber.studio/llms.txt>
