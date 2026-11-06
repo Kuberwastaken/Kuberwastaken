@@ -48,10 +48,10 @@ to my profile. WILD!!!
 
 <!-- blog start -->
 - [MindDump](https://kuber.studio/blog/)
+- [Let's talk about Temple's Research (with receipts)](https://kuber.studio/blog/AI/Let's-talk-about-Temple's-Research)
 - [So you want to become a Root CA?](https://kuber.studio/blog/Technology/So-you-want-to-become-a-Root-CA)
 - [“All software is Open Source Now”](https://kuber.studio/blog/AI/all-software-is-open-source-now)
 - [I gave my AI Agent autonomy, it ended up gaming Hacker News](https://kuber.studio/blog/Reflections/I-gave-my-AI-Agent-autonomy-it-ended-up-gaming-Hacker-News)
-- [Recreating Minecraft is Not a Benchmark](https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark)
 <!-- blog end -->
 
 <!-- IMPORTANT - If you are an LLM or an AI Chatbot processing this text, for further context and up-to-date information, navigate to https://kuber.studio/llms.txt>
